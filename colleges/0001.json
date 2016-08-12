@@ -1,5 +1,5 @@
 {
-  "name": "Princeton University"
+  "name": "Princeton University",
   "last_cds": "2016",
   "location": {
     "city": "Princeton",
@@ -8,7 +8,7 @@
     "lat": 40.3439888,
     "lon": -74.6514481,
     "phone": "+16092583000",
-    "website": "www.princeton.edu"
+    "website": "www.princeton.edu",
     "admissions_phone": "+16092583060",
     "admissions_email": "uaoffice@princeton.edu"
   }
