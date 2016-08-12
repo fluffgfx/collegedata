@@ -1,0 +1,14 @@
+{
+  "name": "Harvard University",
+  "last_cds": "2015",
+  "location": {
+    "city": "Cambridge",
+    "state": "MA",
+    "zip": "02138",
+    "lat": 42.3770068,
+    "lon": -71.1188488,
+    "phone": "+16174951000",
+    "website": "www.harvard.edu",
+    "admissions_phone": "+16174951551"
+  }
+}
